@@ -14,7 +14,7 @@
   "main": "background.js",
   "dependencies": {
     "fuse.js": "^3.4.5",
-    "papaparse": "^4.6.3",
+    "papaparse": "^5.2.0",
     "vue": "^2.6.10",
     "vue-router": "^3.0.7"
   },
